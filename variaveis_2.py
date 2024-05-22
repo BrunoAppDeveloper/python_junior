@@ -4,4 +4,4 @@ peso = 58.6
 
 print(nome)
 print(idade) 
-print(peso)
+print(peso) 
